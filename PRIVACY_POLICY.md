@@ -102,5 +102,5 @@ We may update this Privacy Policy from time to time to align with legal requirem
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-* **Developer Name:** [Aishwarya Sri / Developer Name]
+* **Developer Name:** [Aishwarya A / Developer Name]
 * **Contact Email:** aishwaryasri234@gmail.com
